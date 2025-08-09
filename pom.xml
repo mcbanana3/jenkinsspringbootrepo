@@ -50,6 +50,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>myspringbootproject</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -57,5 +58,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
